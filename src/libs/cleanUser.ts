@@ -1,3 +1,4 @@
+
 import { UserCardProps } from "./types";
 
 export const cleanUser = (user: any) => {
